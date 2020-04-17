@@ -1,6 +1,7 @@
 
 /*
     Time complexity: O(n)
+    Pattern: Frequency counter
 */
 
 function isAnagram(str1,str2){
